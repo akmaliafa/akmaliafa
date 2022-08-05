@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 
 # Halo semua! 
 
-Perkenalkan nama saya **Akmalia Fatimah**.\
+Perkenalkan nama saya **Akmalia Fatimah**.
 
-Saya seorang **Mahasiswa** di [Unissula](https://unissula.ac.id).\
+Saya seorang **Mahasiswa** di [Unissula](https://unissula.ac.id).
 
-Saya juga sedang belajar menjadi Front-End Developer di Dicoding [Sertifikat Dicoding](https://drive.google.com/file/d/1Z1aRVkmOqh2QLbOdWJ6VhQ0iiGUNCtIW/view?usp=sharing) sejak 2022.\
+Saya juga sedang belajar menjadi Front-End Developer di Dicoding [Sertifikat Dicoding](https://drive.google.com/file/d/1Z1aRVkmOqh2QLbOdWJ6VhQ0iiGUNCtIW/view?usp=sharing) sejak 2022.
 
 
