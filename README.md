@@ -1,25 +1,15 @@
 ### Hi there 👋
 
-<!--
-**akmaliafa/akmaliafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is **Akmalia Fatimah**.
 
-Here are some ideas to get you started:
+I'm a **Student** in [Unissula](https://unissula.ac.id).
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently learn about Front-End Web Developer in Dicoding since 2022 [Certificate Dicoding](https://drive.google.com/file/d/1Z1aRVkmOqh2QLbOdWJ6VhQ0iiGUNCtIW/view?usp=sharing).
 
-# Halo semua! 
-
-Perkenalkan nama saya **Akmalia Fatimah**.
-
-Saya seorang **Mahasiswa** di [Unissula](https://unissula.ac.id).
-
-Saya juga sedang belajar menjadi Front-End Developer di Dicoding [Sertifikat Dicoding](https://drive.google.com/file/d/1Z1aRVkmOqh2QLbOdWJ6VhQ0iiGUNCtIW/view?usp=sharing) sejak 2022.
-
+<p align="left">
+<a href="https://github.com/gilangadhan">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gilangadhan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gilangadhan&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
